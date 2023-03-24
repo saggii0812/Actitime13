@@ -1,0 +1,21 @@
+https://demo.actitime.com/login.do
+
+https://www.hyrtutorials.com/p/window-handles-practice.html
+
+https://demo.vtiger.com/vtigercrm/
+
+https://www.facebook.com/
+
+https://www.orangehrm.com/orangehrm-30-day-trial
+
+demo.guru99.com/test/simple_context_menu.html
+
+Drag-Drop url = http://www.dhtmlgoodies.com/submitted-scripts/i-google-like-drag-drop/index.html
+
+https://jqueryui.com/draggable/         --> drag and drop
+
+http://the-internet.herokuapp.com/basic_auth      --> authintication popup url
+
+
+
+assmt - hidden division - url-naukri.com login page
